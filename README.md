@@ -1,8 +1,6 @@
 # pattern
 
-A simple header-only C++ constexpr signature scanning library. 
-
-Because expensive runtime processing is scary.
+Blazingly fast compile-time header-only C++ findpattern library 🚀
 
 ## usage
 ```cpp
