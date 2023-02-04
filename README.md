@@ -1,6 +1,6 @@
 # pattern
 
-A simple header-only C++ signature scanning library.
+A simple header-only C++ constexpr signature scanning library. 
 
 Because expensive runtime processing is scary.
 
